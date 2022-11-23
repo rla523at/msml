@@ -1,0 +1,3 @@
+librarybuild/lib
+librarybuild/bin/**
+!librarybuild/bin/.gitkeep
