@@ -5,7 +5,7 @@
 ## 1.2. CMake 실행
 1. CMake(cmake-gui)를 실행
 2. Where is the source code에 msml/library build 폴더 선택
-3. msml/library build/bin 폴더 선택
+3. Where to build the binaries에 msml/library build/bin 폴더 선택
 4. Configure 선택 >> Specify the generator for this project >> library를 사용하고자 하는 플랫폼 선택 >> Finish
 5. Generate
 
